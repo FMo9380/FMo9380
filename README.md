@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FMo9380
 - 👀 I’m interested in programming, micro controllers and cyber security.
-- 🌱 I finished CS50x introduction to computer science and now I'm looking for next thing to learn.
-- 💞️ I’m looking to collaborate on freeCodeCamp and Codewars (still need a clan).
+- 🌱 I use Python, Java and Javascript but I'm always interested in learning new things.
+- 💞️ I’m on Codewars (SirFMo).
 - 📫 How to reach me ...
 
 <!---
