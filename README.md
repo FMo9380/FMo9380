@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FMo9380
-- 👀 I’m interested in programming, micro controllers and cyber security.
+- 👀 I’m interested in programming, 3D printing, micro controllers and cyber security.
 - 🌱 I use Python, Java and Javascript but I'm always interested in learning new things.
 - 💞️ I’m on Codewars (SirFMo).
 - 📫 How to reach me ...
